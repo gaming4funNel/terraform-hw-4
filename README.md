@@ -59,7 +59,7 @@ module "vpc_dev" {
 
 ![Terraform](https://github.com/gaming4funNel/terraform-hw-4/blob/main/img/terraform6.png)
 
-![terraform-docs.md](https://github.com/gaming4funNel/terraform-hw-4/blob/main/src/terraform-docs.md)
+[**terraform-docs.md**](https://github.com/gaming4funNel/terraform-hw-4/blob/main/src/terraform-docs.md)
 
 ### Задание 3
 1. Выведите список ресурсов в стейте.
